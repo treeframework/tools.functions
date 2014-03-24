@@ -1,0 +1,15 @@
+{
+  "name": "tree-functions",
+  "version": "0.1.0",
+  "homepage": "https://github.com/treeframework/tools.functions",
+  "authors": [
+    "Ilia Kolev <treeframework@iliakolev.com>"
+  ],
+  "description": "TreeFramework - default functions",
+  "main": "_functions.scss",
+  "keywords": [
+    "TreeFramework",
+    "css"
+  ],
+  "license": "MIT"
+}
