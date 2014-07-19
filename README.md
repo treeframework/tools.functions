@@ -1,7 +1,13 @@
 # Functions
 
-The `functions` tools is copy of [inuit] (https://github.com/inuitcss) -
-[tools.functions] (https://github.com/inuitcss/tools.functions) <q>**required**
-for using any of the rest of the framework</q>.
+The `functions` module is **required** for using any of the rest of the
+framework.
 
-It is develop and maintained by [Harry Roberts] (https://twitter.com/csswizardry).
+Install using Bower:
+
+    $ bower install --save tree-functions
+
+## Credits
+
+* **[inuitcss](https://github.com/inuitcss)** Powerful, Sass-based, OOCSS
+framework designed with scalability and performance in mind.
