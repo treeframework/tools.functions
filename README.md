@@ -5,7 +5,15 @@ framework.
 
 Install using Bower:
 
-    $ bower install --save tree-functions
+```sh
+$ bower install tree-functions --save
+```
+
+Install using npm:
+
+```sh
+$ npm install tree-functions --save
+```
 
 ## Credits
 
