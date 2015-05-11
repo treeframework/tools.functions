@@ -8,8 +8,8 @@
   },
   "homepage": "https://github.com/treeframework/tools.functions",
   "keywords": [
-    "oocss",
-    "css"
+    "css",
+    "oocss"
   ],
   "license": "MIT",
   "main": "_tools.functions.scss",
