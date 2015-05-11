@@ -1,17 +1,31 @@
-// *************************************
+// =============================================================================
 //
-//   #FUNCTIONS
+// Name:          Functions
 //
-// *************************************
+// Description:   Simple helper functions.
+//
+// =============================================================================
 
-// Maths helpers.
+
+
+
+
+// Math helpers
 //
-// Halve and double numbers, returning rounded integers. E.g.:
+// Markup:
 //
 // .foo {
-//     padding: halve(3.4px);
+//     padding: halve(10px);
 // }
 //
+// This will yield:
+//
+// .foo {
+//     padding: 5px;
+// }
+//
+// =============================================================================
+
 @function quarter($tree-number) {
     @return round($tree-number / 4);
 }
